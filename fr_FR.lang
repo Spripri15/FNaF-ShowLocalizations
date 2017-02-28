@@ -1,0 +1,29 @@
+itemGroup.tabFnaf.name=Five Nights at Freddy's Show
+
+item.freddy_head.name=Tete de Freddy Fazbear
+item.freddy_plush.name=Peluche de Freddy Fazbear
+item.bonnie_plush.name=Peluche de Bonnie
+item.chica_plush.name=Peluche de Chica
+item.foxy_plush.name=Peluche de Foxy le pirate
+item.golden_freddy_plush.name=Peluche de Golden Freddy
+item.fredbear_plush.name=Peluche de Fredbear
+item.tablet.name=Moniteur de cameras
+item.foxys_hook.name=Crochet de Foxy
+item.bb_plush.name=Je ne te donne pas de nom, Balloon Boy, t'est moche !
+item.freddy_microphone.name=Micro de Freddy Fazbear
+item.baby_plush.name=Peluche de Circus Baby
+
+tile.camera.name=Camera de sécurité
+tile.chicas_cupcake.name=Karl, le cupcake de Chica
+tile.gifts.name=Cadeaux
+tile.floor_tile.name=Carrelage
+
+entity.fnaf.freddy_fazbear.name=Freddy Fazbear
+entity.fnaf.bonnie_bunny.name=Bonnie Le Lapin
+entity.fnaf.chica_chicken.name=Chica La Poule
+entity.fnaf.foxy_fox.name=Foxy Le Renard Pirate
+entity.fnaf.golden_freddy.name=Golden Freddy
+entity.fnaf.toy_freddy.name=Toy Freddy
+entity.fnaf.toy_bonnie.name=Toy Bonnie
+entity.fnaf.toy_chica.name=Toy Chica
+entity.fnaf.bb.name=Balloon Boy
