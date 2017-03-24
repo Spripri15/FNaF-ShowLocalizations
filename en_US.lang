@@ -17,6 +17,7 @@ tile.camera.name=Security Camera
 tile.chicas_cupcake.name=Karl The Chica's Cupcake
 tile.gifts.name=Gifts
 tile.floor_tile.name=Floor Tile
+tile.vent_cover.name=Vent Cover
 
 entity.fnaf.freddy_fazbear.name=Freddy Fazbear
 entity.fnaf.bonnie_bunny.name=Bonnie The Bunny
