@@ -20,9 +20,9 @@ tile.floor_tile.name=Carrelage
 tile.vent_cover.name=Barrière d'aération
 
 entity.fnaf.freddy_fazbear.name=Freddy Fazbear
-entity.fnaf.bonnie_bunny.name=Bonnie Le Lapin
-entity.fnaf.chica_chicken.name=Chica La Poule
-entity.fnaf.foxy_fox.name=Foxy Le Renard Pirate
+entity.fnaf.bonnie_bunny.name=Bonnie
+entity.fnaf.chica_chicken.name=Chica
+entity.fnaf.foxy_fox.name=Foxy Le Pirate
 entity.fnaf.golden_freddy.name=Golden Freddy
 entity.fnaf.toy_freddy.name=Toy Freddy
 entity.fnaf.toy_bonnie.name=Toy Bonnie
